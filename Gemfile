@@ -10,6 +10,7 @@ gem 'sinatra-activerecord'
 
 gem 'puma'
 gem 'tux'
+gem 'instagram'
 
 group :development, :test do
   gem 'pry'
